@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @summer.
 - 👀 I’m a UX Designer based in Vancouver, Canada. 🍁 
 - 🎨 💻Passionate about design and technology.
-- 🌱 I’m currently learning Design.
+- 👾 Web 3 advocator
+- ☕️ Coffee Lover
+- 🐱 Meow
+- 🎨 💻 🍀 ⭐️ 🪐
 - 📫 How to reach me:https://summer-planet.webflow.io/
 
 <!---
