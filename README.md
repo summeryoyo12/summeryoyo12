@@ -5,7 +5,8 @@
 - ☕️ Coffee Lover
 - 🐱 Meow
 - 🎨 💻 🍀 ⭐️ 🪐
-- 📫 How to reach me:https://summer-planet.webflow.io/
+- 📫 How to reach me:https://summerplanet.webflow.io/
+- 📧 summerkingdom@live.cn
 
 <!---
 summeryoyo12/summeryoyo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
